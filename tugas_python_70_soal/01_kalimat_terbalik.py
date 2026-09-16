@@ -1,6 +1,6 @@
 # Soal: Masukkan kalimat, kemudian tampilkan kalimat tersebut dimulai dari urutan yang paling belakang (terbalik). Contoh = Hallo -> ollaH
 # Penjelasan: Program meminta kalimat dari pengguna, kemudian membalik urutan hurufnya
-# Asumsi: Tidak ada asumsi tambahan
+# Asumsi: Tidak ada asumsi tambahann
 
 # Meminta input kalimat dari pengguna
 kalimat = input("Masukkan kalimat: ")
